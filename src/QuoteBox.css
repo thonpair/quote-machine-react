@@ -11,9 +11,15 @@
 #quote {
   height: 150px;
 }
+#text{
+  margin-bottom: 50px;
+  font-size: 20px;
+}
+
 #author {
   text-align: right;
   font-style: italic;
+  font-size: 18px;
 }
 
 .buttons {
