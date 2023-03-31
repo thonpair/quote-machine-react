@@ -1,0 +1,8 @@
+html{
+  background-color: rgba(0, 0, 0, 0.719);
+}
+
+.App {
+  margin-top: 50vh; /* poussé de la moitié de hauteur de viewport */
+  transform: translateY(-50%);
+}
