@@ -1,8 +1,28 @@
 html{
-  background-color: rgba(0, 0, 0, 0.719);
+  background-color: black;
+  background-image: url("./assets/dark_background.webp");
+  background-size: cover;
 }
 
-.App {
-  margin-top: 50vh; /* poussé de la moitié de hauteur de viewport */
-  transform: translateY(-50%);
+@font-face {
+  font-family: folkard;
+  src: url("./assets/folkard.ttf");
+}
+
+
+h1{
+  text-transform: uppercase;
+  text-align: center;
+  margin: 0px auto;
+  padding: 5vh 0vw 0vh 0vw;
+  color: #e7ebec;
+  font-family: folkard, 'MedievalSharp', cursive;
+  font-size: 4.5em;
+  padding:0.5em;
+}
+
+#logo-container{
+  margin: auto;
+  text-align: right;
+  padding: 0px 5em;
 }
