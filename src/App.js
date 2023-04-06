@@ -1,5 +1,5 @@
 import './App.css';
-import QuoteBox from './QuoteBox';
+import QuoteBox from './components/QuoteBox';
 import logo from "./assets/Kaamelott_Logo.png";
 
 function App() {

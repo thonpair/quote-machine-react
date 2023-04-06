@@ -1,5 +1,5 @@
 import './QuoteBox.css';
-import quotes from './data/quotes.json';
+import quotes from '../data/quotes.json';
 import React from 'react';
 
 class QuoteBox extends React.Component {
